@@ -10,7 +10,7 @@ emitFile is required from module system
 ```
 
 
-Open the `index.js` file under `/src/` directory where an example image is already imported and commented out.
+Open the `index.js` file under `/src/pages` directory where an example image is already imported and commented out.
 
 
 ### Steps I took to solve the issue:
